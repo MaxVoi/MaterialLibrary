@@ -3,5 +3,5 @@ Library of functions to automate material export from SolidWorks to visualizatio
 
 ## Technologies
 
-Written in C#.
+Written in C#.\
 For debugging and testing integrated into a WPF-application.
