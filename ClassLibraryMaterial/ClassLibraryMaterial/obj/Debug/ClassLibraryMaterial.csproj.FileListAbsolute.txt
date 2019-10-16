@@ -1,0 +1,8 @@
+C:\Users\Maxs\source\repos\ClassLibraryMaterial\ClassLibraryMaterial\obj\Debug\Interop.SldWorks.dll
+C:\Users\Maxs\source\repos\ClassLibraryMaterial\ClassLibraryMaterial\obj\Debug\Interop.SwConst.dll
+C:\Users\Maxs\source\repos\ClassLibraryMaterial\ClassLibraryMaterial\obj\Debug\ClassLibraryMaterial.csproj.ResolveComReference.cache
+C:\Users\Maxs\source\repos\ClassLibraryMaterial\ClassLibraryMaterial\obj\Debug\ClassLibraryMaterial.csproj.CoreCompileInputs.cache
+C:\Users\Maxs\source\repos\ClassLibraryMaterial\ClassLibraryMaterial\bin\Debug\MaterialDefinitionLibrary.dll
+C:\Users\Maxs\source\repos\ClassLibraryMaterial\ClassLibraryMaterial\bin\Debug\MaterialDefinitionLibrary.pdb
+C:\Users\Maxs\source\repos\ClassLibraryMaterial\ClassLibraryMaterial\obj\Debug\MaterialDefinitionLibrary.dll
+C:\Users\Maxs\source\repos\ClassLibraryMaterial\ClassLibraryMaterial\obj\Debug\MaterialDefinitionLibrary.pdb
