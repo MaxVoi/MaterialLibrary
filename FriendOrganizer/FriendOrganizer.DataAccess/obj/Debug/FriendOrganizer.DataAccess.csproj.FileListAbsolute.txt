@@ -1,0 +1,39 @@
+\\uh01502386.bmwgroup.net\home$\qxz0rdu\visual studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.dll.config
+\\uh01502386.bmwgroup.net\home$\qxz0rdu\visual studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.dll
+\\uh01502386.bmwgroup.net\home$\qxz0rdu\visual studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.pdb
+\\uh01502386.bmwgroup.net\home$\qxz0rdu\visual studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.dll
+\\uh01502386.bmwgroup.net\home$\qxz0rdu\visual studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+\\uh01502386.bmwgroup.net\home$\qxz0rdu\visual studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.Model.dll
+\\uh01502386.bmwgroup.net\home$\qxz0rdu\visual studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.Model.pdb
+\\uh01502386.bmwgroup.net\home$\qxz0rdu\visual studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.xml
+\\uh01502386.bmwgroup.net\home$\qxz0rdu\visual studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+\\uh01502386.bmwgroup.net\home$\qxz0rdu\visual studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.dll
+\\uh01502386.bmwgroup.net\home$\qxz0rdu\visual studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.pdb
+C:\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.dll.config
+C:\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.dll
+C:\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.pdb
+C:\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.dll
+C:\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.Model.dll
+C:\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.Model.pdb
+C:\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.xml
+C:\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.csprojResolveAssemblyReference.cache
+C:\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.Migrations.InitalDatabase.resources
+C:\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.csproj.GenerateResource.Cache
+C:\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.dll
+C:\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.pdb
+U:\Visual Studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.dll.config
+U:\Visual Studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.dll
+U:\Visual Studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.DataAccess.pdb
+U:\Visual Studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.dll
+U:\Visual Studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+U:\Visual Studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.Model.dll
+U:\Visual Studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\FriendOrganizer.Model.pdb
+U:\Visual Studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.xml
+U:\Visual Studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+U:\Visual Studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.csprojResolveAssemblyReference.cache
+U:\Visual Studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.Migrations.InitalDatabase.resources
+U:\Visual Studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.csproj.GenerateResource.Cache
+U:\Visual Studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.dll
+U:\Visual Studio 2015\Projects\FriendOrganizer\FriendOrganizer.DataAccess\obj\Debug\FriendOrganizer.DataAccess.pdb
